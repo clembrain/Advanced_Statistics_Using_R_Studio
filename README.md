@@ -4,7 +4,7 @@
 🧪 **Domain:** Civil Engineering | Statistical Modeling | Machine Learning
 📊 **Tools Used:** R, RStudio, ggplot2, caret, xgboost, randomForest
 📁 **Dataset:** Yeh, I.-C. (1998) - High Performance Concrete Laboratory Dataset
-🖱️ **Portfolio:** [View Full Repo](https://clembrain.github.io/Advanced_Statistics_Using_R_Studio/)
+🖱️ **Portfolio:** [View Full Repo](/Advanced_Statistics_Using_R_Studio/)
 
 ---
 
@@ -177,9 +177,12 @@ Adjusted R² = 0.58
 
 ---
 
-[Hypothesis Testing](/Photo/hypothesis_testing.png)
+![Hypothesis Testing](/Photo/hypothesis_testing.png)
 
-[IncNodePurity](/Photo/IncNodePurity.png)
+![IncNodePurity](/Photo/IncNodePurity.png)
+
+--- 
+
 ### Above is the plot of the variable importance of each variable based on the Node of Purity. It has an RMSE of 2.628103
 
 ---
@@ -206,5 +209,5 @@ Adjusted R² = 0.58
 
 ## 🔗 Access the Full Portfolio
 
-* 📁 [GitHub Repo](https://clembrain.github.io/Advanced_Statistics_Using_R_Studio/)
+* 📁 [GitHub Repo](/Advanced_Statistics_Using_R_Studio/)
 * 📸 Place all visuals in `/screenshots/` directory for automatic rendering
