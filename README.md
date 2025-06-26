@@ -158,6 +158,10 @@ Adjusted R² = 0.58
 
 ![IncNodePurity](/Photo/IncNodePurity.png)
 
+--- 
+
+### Above is the plot of the variable importance of each variable based on the Node of Purity. It has an RMSE of 2.628103
+
 ---
 
 * R² = 0.92
@@ -180,10 +184,6 @@ Adjusted R² = 0.58
 ---
 
 ![Hypothesis Testing](/Photo/hypothesis_testing.png)
-
---- 
-
-### Above is the plot of the variable importance of each variable based on the Node of Purity. It has an RMSE of 2.628103
 
 ---
 
