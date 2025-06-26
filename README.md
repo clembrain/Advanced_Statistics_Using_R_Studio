@@ -127,7 +127,7 @@ R² = 0.25
 
 ![Correlation Analysis](/Photo/linearcorr.png)
 
-### The R-code above select the variables by their number of arrangement in the dataset to show a matrix of linearity between “IV’s” and the target variable.
+### The above select the variables by their number of arrangement in the dataset to show a matrix of linearity between “IV’s” and the target variable.
 
 ---
 ```r
@@ -178,6 +178,8 @@ Adjusted R² = 0.58
 ---
 
 [Hypothesis Testing](/Photo/hypothesis_testing.png)
+
+### Above is the plot of the variable importance of each variable based on the Node of Purity. It has an RMSE of 2.628103
 
 ---
 
