@@ -46,18 +46,36 @@ This project explores the **factors influencing concrete compressive strength** 
 * Converted categorical variables to factors
 * Handled type inconsistencies and formatting
 
-📸 *Screenshots:*
-`/screenshots/libraries_loaded.png` - Initial setup and library import
-`/screenshots/outliers_detected.png` - Outlier detection via boxplot + R-code
 ---
 
 [Load Dataset](/Photo/load.png)
+
+---
+
 [Check Duplicates](/Photo/duplicate.png)
+
+---
+
 [Rename Columns](/Photo/rename.png)
+
+---
+
 [Load Libraries](/Photo/libraries.png)
+
+---
+
 [Detect Outliers (IQR)](/Photo/outliers.png)
+
+---
+
 [Outlier Count Per Column](/Photo/outlier_column.png)
+
+---
+
 [Replace Outliers with Median](/Photo/replace_outliers.png)
+
+---
+
 [Variable Distribution (EDA)](/Photo/histogramdensity.png)
 
 ---
