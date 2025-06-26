@@ -49,10 +49,26 @@ This project explores the **factors influencing concrete compressive strength** 
 📸 *Screenshots:*
 `/screenshots/libraries_loaded.png` - Initial setup and library import
 `/screenshots/outliers_detected.png` - Outlier detection via boxplot + R-code
+---
+
+[Load Dataset](/Photo/load.png)
+[Check Duplicates](/Photo/duplicate.png)
+[Rename Columns](/Photo/rename.png)
+[Load Libraries](/Photo/libraries.png)
+[Detect Outliers (IQR)](/Photo/outliers.png)
+[Outlier Count Per Column](/Photo/outlier_column.png)
+[Replace Outliers with Median](/Photo/replace_outliers.png)
+[Variable Distribution (EDA)](/Photo/histogramdensity.png)
 
 ---
 
 ## 📈 Correlation & Exploratory Analysis
+
+---
+
+[Correlation Analysis](/Photo/correlationmatrix.png)
+
+---
 
 * Strongest correlation: **Cement vs Strength (r = 0.50)**
 * Superplasticizer and Age: Moderate positive correlation
@@ -74,6 +90,11 @@ R² = 0.25
 
 ### 2️⃣ Multiple Linear Regression (MLR)
 
+---
+
+[Correlation Analysis](/Photo/linearcorr.png)
+
+---
 ```r
 Strength = 0.07*Cement + 1.11*Superplasticizer + 0.10*Age - 0.08*Water
 Adjusted R² = 0.58
@@ -96,6 +117,12 @@ Adjusted R² = 0.58
 
 ### ✅ Random Forest
 
+---
+
+[ML Model (RF)](/Photo/variable_importanceplot.png)
+
+---
+
 * R² = 0.92
 * RMSE = 2.63
 * Top features: Cement, Age, Superplasticizer
@@ -113,6 +140,12 @@ Adjusted R² = 0.58
 
 ## 📊 Hypothesis Testing
 
+---
+
+[Hypothesis Testing](/Photo/hypothesis_testing.png)
+
+---
+
 * **Superplasticizer**: p < 0.001 ✅
 * **Water**: p < 0.001 (negative effect) ❌
 * **Fly Ash**: weak positive correlation
@@ -122,6 +155,12 @@ Adjusted R² = 0.58
 ---
 
 ## ✅ Conclusion
+
+---
+
+[Conclusion](/Photo/conclusion.png)
+
+---
 
 > **XGBoost was the top-performing model** with 99.7% accuracy. Cement, Superplasticizer, and Age positively impacted strength. Excess Water had a negative effect. This analysis helps civil engineers design optimized concrete mixtures with stronger, more durable structures.
 
