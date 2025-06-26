@@ -48,35 +48,35 @@ This project explores the **factors influencing concrete compressive strength** 
 
 ---
 
-[Load Dataset](/Photo/load.png)
+![Load Dataset](/Photo/load.png)
 
 ---
 
-[Check Duplicates](/Photo/duplicate.png)
+![Check Duplicates](/Photo/duplicate.png)
 
 ---
 
-[Rename Columns](/Photo/rename.png)
+![Rename Columns](/Photo/rename.png)
 
 ---
 
-[Load Libraries](/Photo/libraries.png)
+![Load Libraries](/Photo/libraries.png)
 
 ---
 
-[Detect Outliers (IQR)](/Photo/outliers.png)
+![Detect Outliers (IQR)](/Photo/outliers.png)
 
 ---
 
-[Outlier Count Per Column](/Photo/outlier_column.png)
+![Outlier Count Per Column](/Photo/outlier_column.png)
 
 ---
 
-[Replace Outliers with Median](/Photo/replace_outliers.png)
+![Replace Outliers with Median](/Photo/replace_outliers.png)
 
 ---
 
-[Variable Distribution (EDA)](/Photo/histogramdensity.png)
+![Variable Distribution (EDA)](/Photo/histogramdensity.png)
 
 ---
 
@@ -84,7 +84,7 @@ This project explores the **factors influencing concrete compressive strength** 
 
 ---
 
-[Correlation Analysis](/Photo/correlationmatrix.png)
+![Correlation Analysis](/Photo/correlationmatrix.png)
 
 ---
 
@@ -110,7 +110,7 @@ R² = 0.25
 
 ---
 
-[Correlation Analysis](/Photo/linearcorr.png)
+![Correlation Analysis](/Photo/linearcorr.png)
 
 ---
 ```r
@@ -137,7 +137,7 @@ Adjusted R² = 0.58
 
 ---
 
-[ML Model (RF)](/Photo/variable_importanceplot.png)
+![ML Model (RF)](/Photo/variable_importanceplot.png)
 
 ---
 
@@ -176,7 +176,7 @@ Adjusted R² = 0.58
 
 ---
 
-[Conclusion](/Photo/conclusion.png)
+![Conclusion](/Photo/conclusion.png)
 
 ---
 
