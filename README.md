@@ -48,35 +48,51 @@ This project explores the **factors influencing concrete compressive strength** 
 
 ---
 
+![Load Libraries](/Photo/libraries.png)
+
+### Installing and loading libraries for data analysis.
+
+---
+
 ![Load Dataset](/Photo/load.png)
+
+### The dataset was imported using “read_excel” R-code above.
 
 ---
 
 ![Check Duplicates](/Photo/duplicate.png)
 
+### With the code above, 78 duplicates were seen
+
 ---
 
 ![Rename Columns](/Photo/rename.png)
 
----
-
-![Load Libraries](/Photo/libraries.png)
+### Variable names were rewritten for ease of use during analysis using the “colnames”
 
 ---
 
 ![Detect Outliers (IQR)](/Photo/outliers.png)
 
+### Above is the r-code I used to detect outliers in numeric columns
+
 ---
 
 ![Outlier Count Per Column](/Photo/outlier_column.png)
+
+### Ploting the above, visualises outliers counted for each Variable.
 
 ---
 
 ![Replace Outliers with Median](/Photo/replace_outliers.png)
 
+### This steps above help replace outliers with median values of respective columns
+
 ---
 
 ![Variable Distribution (EDA)](/Photo/histogramdensity.png)
+
+### The above visualises distributions of all continuous variables using histograms and density plots.
 
 ---
 
@@ -86,14 +102,13 @@ This project explores the **factors influencing concrete compressive strength** 
 
 ![Correlation Analysis](/Photo/correlationmatrix.png)
 
+### The code calculates the correlation matrix for my numerical variables and displays the correlation matrix
+
 ---
 
 * Strongest correlation: **Cement vs Strength (r = 0.50)**
 * Superplasticizer and Age: Moderate positive correlation
 * Water: Negative correlation (r = -0.22)
-
-`/screenshots/correlation_matrix.png` - Correlation heatmap
-`/screenshots/histogram_density.png` - Histogram & density plots
 
 ---
 
@@ -111,6 +126,8 @@ R² = 0.25
 ---
 
 ![Correlation Analysis](/Photo/linearcorr.png)
+
+### The R-code above select the variables by their number of arrangement in the dataset to show a matrix of linearity between “IV’s” and the target variable.
 
 ---
 ```r
