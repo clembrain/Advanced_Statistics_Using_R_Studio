@@ -4,7 +4,7 @@
 🧪 **Domain:** Civil Engineering | Statistical Modeling | Machine Learning
 📊 **Tools Used:** R, RStudio, ggplot2, caret, xgboost, randomForest
 📁 **Dataset:** Yeh, I.-C. (1998) - High Performance Concrete Laboratory Dataset
-🖱️ **Portfolio:** [View Full Repo](https://github.com/clembrain/Advanced_Statistics_Using_R_Studio/tree/main/Project_File)
+🖱️ **Portfolio:** [View Full Repo](https://github.com/clembrain/Advanced_Statistics_Using_R_Studio)
 
 ---
 
@@ -209,5 +209,5 @@ Adjusted R² = 0.58
 
 ## 🔗 Access the Full Portfolio
 
-* 📁 [GitHub Repo](https://github.com/clembrain/Advanced_Statistics_Using_R_Studio/tree/main/Project_File)
+* 📁 [GitHub Repo](https://github.com/clembrain/Advanced_Statistics_Using_R_Studio)
 * 📸 Place all visuals in `/screenshots/` directory for automatic rendering
